@@ -45,7 +45,7 @@ Untuk menambahkan list, ada 3 tag : 1. <ul> untuk daftar tidak berurutan. 2. <ol
 Berikut lampiran kode dan hasilnya :
 
 ![Menambahkan list](image/Menambahkan_list.png)
-![Hasil menambahkan list](image/Hasil_menambahkan_list.png)
+![Hasil menambahkan list](image/Hasil_menambah_list.png)
 
 ## 7. Menambahkan komentar
 Untuk menambahkan komentar, menggunakan <!--komentar-->
