@@ -52,7 +52,7 @@ Untuk menambahkan komentar, menggunakan <!--komentar-->
 
 Berikut lampiran kode dan hasilnya :
 
-![Menambahkan komentar](image/Menambahkan_komentar.png)
+![Menambahkan komentar](image/Menambah_komentar.png)
 ![Hasil mnambahkan komentar](image/Hasil_menambahkan_komentar.png)
 
 ## 8. Menggabungkan semua elemen
